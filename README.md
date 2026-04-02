@@ -125,26 +125,7 @@ elite-nris-club/
 
 ---
 
-## 🚀 Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/richapandey95/elite-nris-club.git
-cd elite-nris-club
-```
-
-### Run Locally
-
-Since this is a frontend project, simply open in browser:
-
-```bash
-# Option 1 — Direct
-open index.html
-
-# Option 2 — VS Code Live Server (Recommended)
-# Install Live Server extension → Right click index.html → Open with Live Server
-```
 
 ---
 
