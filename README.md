@@ -34,7 +34,7 @@
 |----------------|------------|
 | ![Dashboard](<img width="1922" height="2469" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide1" src="https://github.com/user-attachments/assets/1bb02fe4-06c6-4cec-b669-34805ac9cd49" />
 
-) | ![Login](<img width="1922" height="1440" alt="LOG-IN-Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/6999c121-7ecf-4a92-a5fd-4f748d6f091d" />
+) | ![Login](<img width="1922" height="1440" alt="LOG-IN-Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/ca4ff5a6-8795-4f50-b141-6f3f4ce2c69a" />
 ) |
 
 ---
