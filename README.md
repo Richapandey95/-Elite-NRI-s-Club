@@ -1,4 +1,4 @@
-<img width="1922" height="4628" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/ff072370-0ae7-471f-a9aa-a1bcb35472b2" /># 💍 Elite NRI's Club — Matrimonial Web Application
+ 💍 Elite NRI's Club — Matrimonial Web Application
 
 <div align="center">
 
