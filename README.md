@@ -26,13 +26,13 @@
 
 | Home Page | Profile Page |
 |-----------|-------------|
-| ![Home](<img width="1922" height="4628" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/fa7d1256-53c9-4dd5-a6fd-d5a431d8d3f4" />)
+| ![Home](<img width="1922" height="4628" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/fa7d1256-53c9-4dd5-a6fd-d5a431d8d3f4" />
 ) | ![Profile](<img width="1922" height="5958" alt="Elite-Shadi-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/319f57c4-2175-40c0-8d7c-0289da14bad6" />
 ) |
 
 | Admin Dashboard | Login Page |
 |----------------|------------|
-| ![Dashboard](<img width="1922" height="2469" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide1" src="https://github.com/user-attachments/assets/1bb02fe4-06c6-4cec-b669-34805ac9cd49" />)
+| ![Dashboard](<img width="1922" height="2469" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide1" src="https://github.com/user-attachments/assets/1bb02fe4-06c6-4cec-b669-34805ac9cd49" />
 
 ) | ![Login](<img width="1922" height="1440" alt="LOG-IN-Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/6999c121-7ecf-4a92-a5fd-4f748d6f091d" />
 ) |
