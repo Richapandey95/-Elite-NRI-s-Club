@@ -93,13 +93,13 @@
 ```
 elite-nris-club/
 │
-├── index.html                  # Home / Landing Page
-├── login.html                  # Login Page
-├── register.html               # Registration Page
-├── profile.html                # User Profile Page
-├── browse-matches.html         # Browse Matches
-├── match-detail.html           # Single Match Detail
-├── dashboard.html              # User Dashboard
+├── index.php                  # Home / Landing Page
+├── login.php             # Login Page
+├── register.php               # Registration Page
+├── profile.php                # User Profile Page
+├── browse-matches.php        # Browse Matches
+├── match-detail.php         # Single Match Detail
+├── dashboard.php            # User Dashboard
 │
 ├── admin/
 │   ├── admin-login.html        # Admin Login
