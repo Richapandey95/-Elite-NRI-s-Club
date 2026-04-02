@@ -16,7 +16,7 @@
 
 ## 🖥️ Live Demo
 
-🔗 [View Live Website](#) &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 [View Figma Design](#)
+🔗 [View Live Website]((https://elitenrisclub.com/)) &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 [View Figma Design](https://www.figma.com/design/yC3Xonot2kaQLNJohoxRoH/Elite-NRI-s-Club?node-id=0-1&p=f&t=a3PUZ3rUDFtDRltn-0)
 
 ---
 
