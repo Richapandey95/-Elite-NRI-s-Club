@@ -1,4 +1,4 @@
-# 💍 Elite NRI's Club — Matrimonial Web Application
+<img width="1922" height="4628" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/ff072370-0ae7-471f-a9aa-a1bcb35472b2" /># 💍 Elite NRI's Club — Matrimonial Web Application
 
 <div align="center">
 
@@ -16,21 +16,26 @@
 
 ## 🖥️ Live Demo
 
-🔗 [View Live Website]((https://elitenrisclub.com/)) &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 [View Figma Design](https://www.figma.com/design/yC3Xonot2kaQLNJohoxRoH/Elite-NRI-s-Club?node-id=0-1&p=f&t=a3PUZ3rUDFtDRltn-0)
+🔗 [View Live Website](https://elitenrisclub.com/) &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 [View Figma Design](https://www.figma.com/design/yC3Xonot2kaQLNJohoxRoH/Elite-NRI-s-Club?node-id=0-1&p=f&t=a3PUZ3rUDFtDRltn-0)
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add screenshots folder — see instructions at bottom)*
+> 
 
 | Home Page | Profile Page |
 |-----------|-------------|
-| ![Home](#) | ![Profile](#) |
+| ![Home](<img width="1922" height="2469" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide1" src="https://github.com/user-attachments/assets/08594e13-da98-4ff9-a84b-61e646b35c81" />
+
+) | ![Profile](<img width="1922" height="5958" alt="Elite-Shadi-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/319f57c4-2175-40c0-8d7c-0289da14bad6" />
+) |
 
 | Admin Dashboard | Login Page |
 |----------------|------------|
-| ![Dashboard](#) | ![Login](#) |
+| ![Dashboard](<img width="1922" height="1440" alt="LOG-IN-Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/a83d042d-d3ca-47f7-84ac-6495341432b3" />
+#) | ![Login](<img width="1922" height="1440" alt="LOG-IN-Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/6999c121-7ecf-4a92-a5fd-4f748d6f091d" />
+#) |
 
 ---
 
