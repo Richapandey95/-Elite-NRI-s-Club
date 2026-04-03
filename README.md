@@ -27,7 +27,7 @@
 | Home Page | Profile Page |
 |-----------|-------------|
 | ![Home](<img width="1922" height="4628" alt="Elite-Nris-Club-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/fa7d1256-53c9-4dd5-a6fd-d5a431d8d3f4" />
-) | ![Profile](<img width="1922" height="5958" alt="Elite-Shadi-Verified-Desi-Singles-Elite-NRI-Matchmaking-in-USA-Canada-UK-Europe-UAE-Worldwide" src="https://github.com/user-attachments/assets/319f57c4-2175-40c0-8d7c-0289da14bad6" />
+) | ![Profile](<img width="1922" height="5205" alt="572967678-319f57c4-2175-40c0-8d7c-0289da14bad61" src="https://github.com/user-attachments/assets/a661d804-7d1b-47d1-a504-5a70b46128fe" />
 ) |
 
 | Admin Dashboard | Login Page |
